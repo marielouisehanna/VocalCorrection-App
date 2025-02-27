@@ -1,3 +1,10 @@
+# Ignore audio datasets
+ml_models/noise_removal/data/clean/
+ml_models/noise_removal/data/noisy/
+ml_models/noise_removal/data/mixed/
+
+
+
 # Python
 __pycache__/
 *.py[cod]

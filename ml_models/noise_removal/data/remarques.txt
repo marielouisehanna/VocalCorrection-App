@@ -1,0 +1,8 @@
+The audio files are not included here because they are too large for GitHub.
+You can download them manually and organize them as follows:
+
+clean/ - Place clean vocal samples here
+noisy/ - Place background noise samples here
+mixed/ - This folder will be populated automatically by the script
+
+Check DATASET.md for download links and more details.
